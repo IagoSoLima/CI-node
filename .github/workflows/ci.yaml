@@ -15,8 +15,8 @@ jobs:
         with:
           node-version: 16
       - run: npm install
-      - run: npm test:coverage
-      - run: npm start
+      - run: npm run test:coverage
+      - run: npm run start
 
   sonarcloud:
     name: SonarCloud
