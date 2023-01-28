@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1674789406653" clover="3.2.0">
-  <project timestamp="1674789406654" name="All files">
-    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="6" coveredelements="6" complexity="0" loc="4" ncloc="4" packages="1" files="2" classes="2"/>
+<coverage generated="1674930319015" clover="3.2.0">
+  <project timestamp="1674930319015" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="16" coveredelements="16" complexity="0" loc="13" ncloc="13" packages="1" files="3" classes="3"/>
+    <file name="app.js" path="/home/iago/Projetos/sum_application/src/app.js">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
     <file name="subtract.js" path="/home/iago/Projetos/sum_application/src/subtract.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
     </file>
     <file name="sum.js" path="/home/iago/Projetos/sum_application/src/sum.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>

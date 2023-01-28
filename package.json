@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "test:coverage": "jest --coverage",
     "commit": "cz",
     "prepare": "husky install",
     "start": "node ./src/app.js"
