@@ -1,7 +1,7 @@
-function app() {
-  const subtract = require("./subtract");
-  const sum = require("./sum");
+const sum = require("./sum");
+const subtract = require("./subtract");
 
+function app() {
   const n1 = 4;
   const n2 = 5;
 
