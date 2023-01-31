@@ -14,7 +14,7 @@ function app() {
   console.log("sum: ", sum(n1, n2));
   console.log("subtract: ", subtract(n1, n2));
   console.log("multiplication: ", multiplication(n1, n2));
-  console.log("division: ", division(n1, n2));
+  // console.log("division: ", division(n1, n2));
 }
 
 module.exports = app;
