@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1675199237188" clover="3.2.0">
-  <project timestamp="1675199237189" name="All files">
-    <metrics statements="30" coveredstatements="28" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="6" elements="38" coveredelements="34" complexity="0" loc="30" ncloc="30" packages="1" files="8" classes="8"/>
+<coverage generated="1675199517293" clover="3.2.0">
+  <project timestamp="1675199517293" name="All files">
+    <metrics statements="31" coveredstatements="29" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="6" elements="39" coveredelements="35" complexity="0" loc="31" ncloc="31" packages="1" files="8" classes="8"/>
     <file name="absolute.js" path="/home/iago/Projetos/sum_application/src/absolute.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="2" count="2" type="stmt"/>
+      <line num="2" count="6" type="stmt"/>
       <line num="5" count="2" type="stmt"/>
     </file>
     <file name="app.js" path="/home/iago/Projetos/sum_application/src/app.js">
-      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
@@ -23,8 +23,9 @@
       <line num="16" count="2" type="stmt"/>
       <line num="17" count="2" type="stmt"/>
       <line num="18" count="2" type="stmt"/>
-      <line num="21" count="1" type="stmt"/>
-      <line num="23" count="1" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
     </file>
     <file name="division.js" path="/home/iago/Projetos/sum_application/src/division.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
