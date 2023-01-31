@@ -2,6 +2,9 @@ const sum = require("./sum");
 const subtract = require("./subtract");
 const multiplication = require("./multiplication");
 const division = require("./division");
+const squareRoot = require("./square_root");
+const absolute = require("./absolute");
+const pow = require("./pow");
 
 function app() {
   const n1 = 4;
@@ -11,7 +14,8 @@ function app() {
   console.log("sum: ", sum(n1, n2));
   console.log("subtract: ", subtract(n1, n2));
   console.log("multiplication: ", multiplication(n1, n2));
-  console.log("division: ", division(n1, n2));
+
+  // console.log("division: ", division(n1, n2));
 }
 
 module.exports = app;
