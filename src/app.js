@@ -2,6 +2,8 @@ const sum = require("./sum");
 const subtract = require("./subtract");
 const multiplication = require("./multiplication");
 const division = require("./division");
+const squareRoot = require("./square_root");
+const absolute = require("./absolute");
 
 function app() {
   const n1 = 4;
