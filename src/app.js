@@ -4,6 +4,7 @@ const multiplication = require("./multiplication");
 const division = require("./division");
 const squareRoot = require("./square_root");
 const absolute = require("./absolute");
+const pow = require("./pow");
 
 function app() {
   const n1 = 4;
