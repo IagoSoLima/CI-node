@@ -16,6 +16,7 @@ function app() {
   console.log("subtract: ", subtract(n1, n2));
   console.log("multiplication: ", multiplication(n1, n2));
   console.log("division: ", division(n1, n2));
+  console.log("absolute: ", absolute(-n1), absolute(-n2));
 }
 
 module.exports = app;
