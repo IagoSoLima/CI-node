@@ -1,10 +1,11 @@
 name: ci-node
 on:
   workflow_dispatch:
+  push:
+    branches: [develop, main]
   pull_request:
     types: [opened, synchronize, reopened]
-    branches:
-      - develop
+    branches: [develop, main]
 
 jobs:
   check-application:
